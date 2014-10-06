@@ -8,6 +8,19 @@
 
 		<title>Kat Taylor | Artist</title>
 
+		<link rel="stylesheet" href="css/normalize.css">
+
+		<style>
+
+			nav a {
+
+				color: white;
+				background-color: #3388dd;
+
+			}
+
+		</style>
+
 	</head>
 
 	<body>
@@ -54,15 +67,15 @@
 
 				<li>
 
-					<img src="img/pearl.png.jpg" alt="">
+					<img src="img/pearl.png" alt="">
 					<p>My favorite comic book character, Pearl Jones from American Vampire.</p>
 
 				</li>
 
 				<li>
 
-					<img src="img/superhero.png.jpg" alt="">
-					<p>Inspired after marathoning a bunch of Marvel Movies to create my own superhero.</p>
+					<img src="img/superhero.png" alt="">
+					<p>Inspired after marathoning a bunch of Marvel movies to create my own superhero.</p>
 
 				</li>
 
@@ -80,8 +93,8 @@
 				<img src="img/facebook-wrap.png" alt="Facebook Logo">
 			</a>
 
-			<p>&copy; 2014 Kat Taylor.</p>
-
+			<p>&copy; 2014 Kat Taylor..</p>
+	
 		</footer>
 
 	</body>
