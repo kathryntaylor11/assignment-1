@@ -9,17 +9,8 @@
 		<title>Kat Taylor | Artist</title>
 
 		<link rel="stylesheet" href="css/normalize.css">
-
-		<style>
-
-			nav a {
-
-				color: white;
-				background-color: #3388dd;
-
-			}
-
-		</style>
+		<link rel="stylesheet" href="css/main.css">
+		
 
 	</head>
 
