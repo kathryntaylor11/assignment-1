@@ -38,55 +38,59 @@
 
 		</header>
 
-		<section>
+		<div>
 
-			<ul>
+			<section>
 
-				<li>
+				<ul>
 
-					<img src="img/bulldog.png" alt="">
-					<p>A project wherein I illustrated several animals in fancy clothing reminiscint of famous rococo portraits.</p>
+					<li>
 
-				</li>
+						<img src="img/bulldog.png" alt="">
+						<p>A project wherein I illustrated several animals in fancy clothing reminiscint of famous rococo portraits.</p>
 
-				<li>
+					</li>
 
-					<img src="img/fish.png" alt="">
-					<p>Trying to create an etherel and fantastical scene.</p>
+					<li>
 
-				</li>
+						<img src="img/fish.png" alt="">
+						<p>Trying to create an etherel and fantastical scene.</p>
 
-				<li>
+					</li>
 
-					<img src="img/pearl.png" alt="">
-					<p>My favorite comic book character, Pearl Jones from American Vampire.</p>
+					<li>
 
-				</li>
+						<img src="img/pearl.png" alt="">
+						<p>My favorite comic book character, Pearl Jones from American Vampire.</p>
 
-				<li>
+					</li>
 
-					<img src="img/superhero.png" alt="">
-					<p>Inspired after marathoning a bunch of Marvel movies to create my own superhero.</p>
+					<li>
 
-				</li>
+						<img src="img/superhero.png" alt="">
+						<p>Inspired after marathoning a bunch of Marvel movies to create my own superhero.</p>
 
-			</ul>
+					</li>
 
-		</section>
+				</ul>
 
-		<footer>
+			</section>
 
-			<a href="http://www.facebook.com/kat.taylor.146">
-				<img src="img/twitter-wrap.png" alt="Twitter Logo">
-			</a>
+			<footer>
 
-			<a href="http://twitter.com/saiphandsound">
-				<img src="img/facebook-wrap.png" alt="Facebook Logo">
-			</a>
+				<a href="http://www.facebook.com/kat.taylor.146">
+					<img src="img/twitter-wrap.png" alt="Twitter Logo">
+				</a>
 
-			<p>&copy; 2014 Kat Taylor..</p>
-	
-		</footer>
+				<a href="http://twitter.com/saiphandsound">
+					<img src="img/facebook-wrap.png" alt="Facebook Logo">
+				</a>
+
+				<p>&copy; 2014 Kat Taylor..</p>
+		
+			</footer>
+
+		</div>
 
 	</body>
 
